@@ -1,3 +1,3 @@
 const chageColor = () => {
-    document.getElementById('colabo').style.color = "green"
+    document.getElementById('colabo').style.color = "yellow"
 }
